@@ -14,7 +14,7 @@ scrn = pygame.display.set_mode((X, Y))
 pygame.display.set_caption('image')
 
 # create a surface object, image is drawn on it.
-imp = pygame.image.load("image.jpg").convert()
+imp = pygame.image.load("image.png").convert()
 
 # Using blit to copy content from one surface to other
 scrn.blit(imp, (0, 0))
