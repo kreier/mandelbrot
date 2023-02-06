@@ -1,7 +1,7 @@
 minX = -2.0
 maxX = 1.0
-width = 60
-height = 30
+width = 200
+height = 60
 aspectRatio = 2
 
 chars = ' .,-:;i+hHM$*#@ '
